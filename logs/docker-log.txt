@@ -1,0 +1,1 @@
+docker: Error response from daemon: driver failed programming external connectivity on endpoint fervent_wozniak (d1ffdd4e29bd793874d849208c29611338d383234fc5d0ef0c784f59be0a09a5): Error starting userland proxy: Bind for 0.0.0.0:4444 failed: port is already allocated.
