@@ -1,4 +1,5 @@
-# Test for Brick & Mortar Retailer that I wrote a while back
+# Test for Brick & Mortar Retailer that I wrote as Automation Project 
+## Uses ES6 convention
 
 WebdriverIO and Docker Selenium Configuration for * UI Tests
 
