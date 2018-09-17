@@ -1,5 +1,6 @@
-# Test for Brick & Mortar Retailer that I wrote as Automation Project 
-## Uses ES6 convention
+# WDIO Test Sample framework
+An Automated Testing framework which utilizes webdriverIO using ES6 convention. It defines a Brick & Mortar Retailer Application that I played long back
+
 
 WebdriverIO and Docker Selenium Configuration for * UI Tests
 
