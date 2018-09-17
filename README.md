@@ -1,4 +1,4 @@
-# How to Configure UI Tests
+# Test for Brick & Mortar Retailer that I wrote a while back
 
 WebdriverIO and Docker Selenium Configuration for * UI Tests
 
